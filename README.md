@@ -1,2 +1,2 @@
 # algebra_karnaugh
-simplification des fonction algebrique tableau de karnaugh
+simplification des fonctions algebrique tableau de karnaugh
